@@ -1,0 +1,11 @@
+c:\users\aveg\documents\visual studio 2010\Projects\erp1\erp1\bin\erp1.dll
+c:\users\aveg\documents\visual studio 2010\Projects\erp1\erp1\bin\erp1.pdb
+c:\users\aveg\documents\visual studio 2010\Projects\erp1\erp1\obj\Debug\erp1.dll
+c:\users\aveg\documents\visual studio 2010\Projects\erp1\erp1\obj\Debug\erp1.pdb
+C:\Users\Aveg\documents\visual studio 2010\Projects\erp1\erp1\obj\Debug\erp1.csprojResolveAssemblyReference.cache
+C:\Users\Sgt. Captain Aveg\Aveg's Backup\Project Documents\Source Code\erp1\erp1\bin\erp1.dll.config
+C:\Users\Sgt. Captain Aveg\Aveg's Backup\Project Documents\Source Code\erp1\erp1\bin\erp1.dll
+C:\Users\Sgt. Captain Aveg\Aveg's Backup\Project Documents\Source Code\erp1\erp1\bin\erp1.pdb
+C:\Users\Sgt. Captain Aveg\Aveg's Backup\Project Documents\Source Code\erp1\erp1\obj\Debug\erp1.csprojResolveAssemblyReference.cache
+C:\Users\Sgt. Captain Aveg\Aveg's Backup\Project Documents\Source Code\erp1\erp1\obj\Debug\erp1.dll
+C:\Users\Sgt. Captain Aveg\Aveg's Backup\Project Documents\Source Code\erp1\erp1\obj\Debug\erp1.pdb

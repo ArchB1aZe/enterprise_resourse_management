@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="new.master.cs" Inherits="erp1._new" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Learn Center</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css1/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="css1/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="css1/style.css" type="text/css" media="all">
+<script type="text/javascript" src="js1/jquery-1.5.2.js" ></script>
+<script type="text/javascript" src="js1/cufon-yui.js"></script>
+<script type="text/javascript" src="js1/cufon-replace.js"></script>
+<script type="text/javascript" src="js1/Molengo_400.font.js"></script>
+<script type="text/javascript" src="js1/Expletus_Sans_400.font.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="js/html5.js"></script>
+<style type="text/css">.bg, .box2{behavior:url("js/PIE.htc");}</style>
+<![endif]-->
+</head>
+<body id="page1">
+<div class="body1">
+  <div class="main">
+    <!-- header -->
+    <header>
+      <div class="wrapper">
+        <nav>
+          
+        </nav>
+        
+      </div>
+      <br />
+      <br />
+      <div class="wrapper">
+        <h1><a href="www.bitmesra.ac.in"><img src="images/logo.png" alt=""></a></h1>
+      </div>
+      <div id="slogan"> We Will Open The World<span>of technology for you!</span> </div>
+      <ul class="banners">
+        <li><a href="login.aspx"><img src="images/banner1.jpg" alt=""></a></li>
+        <li><a href="marks_login.aspx"><img src="images/banner2.jpg" alt=""></a></li>
+        <li><a href="feedback_login.aspx"><img src="images/banner3.jpg" alt=""></a></li>
+        
+      </ul>
+    </header>
+    <!-- / header -->
+    <table>
+    <tr>
+    <td>
+  <a href="admin_login.aspx">Admin</a>
+        <a href="themes.aspx">Themes</a></div>
+        </td></tr></table>
+</div>
+
+<script type="text/javascript">    Cufon.now();</script>
+</body>
+</html>
